@@ -1,0 +1,1 @@
+# coding-ninjas-javaScript-skill-test-1-alarm-clock
